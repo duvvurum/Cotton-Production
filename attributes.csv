@@ -1,0 +1,165 @@
+attribute_id,attribute_description
+1,Area Planted
+2,Plant For Fresh Consump
+3,Plant For Processing
+4,Area Harvested
+5,Catch For Reduction
+6,Cows In Milk
+7,Crush
+8,Landings/Comm'l Catch
+9,Layers
+11,Harv. For Fresh Cons.
+12,Harv. For Processing
+14,Total Bush Population
+15,Total Colonies
+16,Total Trees
+17,Bearing Trees
+18,Commercial Colonies
+19,Non-Bearing Trees
+20,Beginning Stocks
+21,"Ewes, Beginning Stocks"
+22,Sow Beginning Stocks
+23,Dairy Cows Beg. Stocks
+25,Beef Cows Beg. Stocks
+27,Production Gross WT
+28,Production
+29,Arabica Production
+30,Beet Sugar Production
+31,Commercial Production
+32,Cows Milk Production
+33,Farm Sales Weight Prod
+34,Filter Production
+35,Fresh Sale Production
+36,Fresh/Frz Production
+37,Green Production
+38,Main Production
+39,Pipe Production
+41,Production In MT
+42,Black Production
+43,Cane Sugar Production
+44,Canned Production
+45,Cigarette Production
+46,Mid & Other Production
+47,Non-Comm. Production
+48,Non-Filter Production
+49,Other Milk Production
+50,Processing Production
+52,Production In Pieces
+53,Robusta Production
+54,Rough Production
+55,Cured Production
+56,Other Production
+57,Imports
+58,Bean Imports
+59,Fresh/Frozen Imports
+60,Green Imports
+61,"Hatch Eggs, Imports"
+62,Intra-EU Imports
+63,MY Imp. from U.S.
+64,Raw Imports
+65,U.S. Leaf Imports
+67,Black Imports
+68,Canned Imports
+69,Liquor & Paste Imports
+70,MY Imp. from EU
+71,Other Imports
+73,Processed Prod.Imports
+74,Refined Imp.(Raw Val)
+75,Roast & Ground Imports
+76,"Shell Eggs, Imports"
+77,Butter Imports
+78,CY Imports
+79,Cured Imports
+80,Instant Tea Imports
+81,TY Imports
+82,Soluble Imports
+83,CY Imp. from U.S.
+84,TY Imp. from U.S.
+85,"Powder,Cake,Choc. Imp."
+86,Total Supply
+87,CY Exp. to U.S.
+88,Exports
+89,Raw Exports
+90,Bean Exports
+91,Fresh/Frozen Exports
+92,Green Exports
+93,"Hatch Eggs, Exports"
+94,Intra EU Exports
+96,Intra EU Exports
+97,MY Exp. to EU
+98,Raw Fiber Exports
+99,Refined Exp.(Raw Val)
+101,Black Exports
+102,Canned Exports
+103,Liquor & Paste Exports
+104,Other Exports
+106,Processed Prod.Exports
+107,Roast & Ground Exports
+108,"Shell Eggs, Exports"
+109,Butter Exports
+110,CY Exports
+111,Cured Exports
+112,Instant Tea Exports
+113,TY Exports
+114,Soluble Exports
+115,"Powder,Cake,Choc. Exp."
+117,Total Slaughter
+118,Cow Slaughter
+119,Ewe Slaughter
+121,Sow Slaughter
+122,Calf Slaughter
+123,Lamb Slaughter
+124,Other Slaughter
+125,Domestic Consumption
+126,Total Disappearance
+128,Dom. Leaf Consumption
+130,Feed Dom. Consumption
+131,Fluid Use Dom. Consum.
+132,For Processing
+133,Fresh Dom. Consumption
+134,Domestic Fresh Consump
+135,Fresh Dom. Consumption
+136,Green Dom. Consumption
+137,"Hatch Eggs,Consumption"
+139,Human Dom. Consumption
+140,Industrial Dom. Cons.
+141,"Rst,Ground Dom. Consum"
+142,USE Dom. Consumption
+143,Utilization for Sugar
+144,Black Dom. Consumption
+146,Domestic Fresh Market
+147,Factory Use Consum.
+149,Food Use Dom. Cons.
+150,Loss Dom. Consumption
+151,Other Disappearance
+152,"Other Use, Losses"
+153,"Shell Eggs, Human"
+154,Soluble Dom. Cons.
+155,U.S. Leaf Dom. Cons.
+156,Use for Alcohol Indust
+157,Utilizatn for Alcohol
+158,Feed Use Dom. Consum.
+159,Feed Waste
+161,Feed Waste Dom. Cons.
+165,Instant Tea Consumpt.
+166,Other Consumption
+167,Other Foreign Cons.
+168,"Shell Eggs,OT.Use/Loss"
+169,Withdrawal From Market
+170,Other Dom. Consumption
+171,"Use, Human Consumption"
+172,Loss
+173,Total Disappearance
+174,Total Use
+175,Total Utilization
+176,Ending Stocks
+178,Total Distribution
+180,Conv. Rate Net/Gross
+181,"Extr. Rate, 999.9999"
+182,Milling Rate (.9999)
+183,Seed to Lint Ratio
+184,Yield
+192,FSI Consumption
+194,SME
+195,Stocks-to-Use
+212,Per Capita Consumption

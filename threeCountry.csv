@@ -1,0 +1,343 @@
+Country_Name,Market_Year,Calendar_Year,Month,Attribute_ID,Attribute_Description,Unit_ID,Unit_Description,Value
+China,1960,2006,6,4,Area Harvested,4,(1000 HA),5225
+China,1960,2006,6,184,Yield,29,(KG/HA),204
+China,1961,2006,6,4,Area Harvested,4,(1000 HA),3870
+China,1961,2006,6,184,Yield,29,(KG/HA),208
+China,1962,2006,6,4,Area Harvested,4,(1000 HA),3497
+China,1962,2006,6,184,Yield,29,(KG/HA),212
+China,1963,2006,6,4,Area Harvested,4,(1000 HA),4409
+China,1963,2006,6,184,Yield,29,(KG/HA),272
+China,1964,2006,6,4,Area Harvested,4,(1000 HA),4935
+China,1964,2006,6,184,Yield,29,(KG/HA),335
+China,1965,2006,6,4,Area Harvested,4,(1000 HA),5003
+China,1965,2006,6,184,Yield,29,(KG/HA),418
+China,1966,2006,6,4,Area Harvested,4,(1000 HA),4925
+China,1966,2006,6,184,Yield,29,(KG/HA),473
+China,1967,2006,6,4,Area Harvested,4,(1000 HA),5098
+China,1967,2006,6,184,Yield,29,(KG/HA),461
+China,1968,2006,6,4,Area Harvested,4,(1000 HA),4986
+China,1968,2006,6,184,Yield,29,(KG/HA),472
+China,1969,2006,6,4,Area Harvested,4,(1000 HA),4829
+China,1969,2006,6,184,Yield,29,(KG/HA),431
+China,1970,2006,6,4,Area Harvested,4,(1000 HA),4997
+China,1970,2006,6,184,Yield,29,(KG/HA),458
+China,1971,2006,6,4,Area Harvested,4,(1000 HA),4923
+China,1971,2006,6,184,Yield,29,(KG/HA),429
+China,1972,2006,6,4,Area Harvested,4,(1000 HA),4896
+China,1972,2006,6,184,Yield,29,(KG/HA),400
+China,1973,2006,6,4,Area Harvested,4,(1000 HA),4942
+China,1973,2006,6,184,Yield,29,(KG/HA),515
+China,1974,2006,6,4,Area Harvested,4,(1000 HA),5013
+China,1974,2006,6,184,Yield,29,(KG/HA),491
+China,1975,2006,6,4,Area Harvested,4,(1000 HA),4955
+China,1975,2006,6,184,Yield,29,(KG/HA),479
+China,1976,2006,6,4,Area Harvested,4,(1000 HA),4929
+China,1976,2006,6,184,Yield,29,(KG/HA),420
+China,1977,2006,6,4,Area Harvested,4,(1000 HA),4845
+China,1977,2006,6,184,Yield,29,(KG/HA),422
+China,1978,2006,6,4,Area Harvested,4,(1000 HA),4867
+China,1978,2006,6,184,Yield,29,(KG/HA),445
+China,1979,2006,6,4,Area Harvested,4,(1000 HA),4512
+China,1979,2006,6,184,Yield,29,(KG/HA),487
+China,1980,2006,6,4,Area Harvested,4,(1000 HA),4920
+China,1980,2006,6,184,Yield,29,(KG/HA),549
+China,1981,2006,6,4,Area Harvested,4,(1000 HA),5185
+China,1981,2006,6,184,Yield,29,(KG/HA),571
+China,1982,2006,6,4,Area Harvested,4,(1000 HA),5828
+China,1982,2006,6,184,Yield,29,(KG/HA),616
+China,1983,2006,6,4,Area Harvested,4,(1000 HA),6077
+China,1983,2006,6,184,Yield,29,(KG/HA),763
+China,1984,2006,6,4,Area Harvested,4,(1000 HA),6923
+China,1984,2006,6,184,Yield,29,(KG/HA),903
+China,1985,2006,6,4,Area Harvested,4,(1000 HA),5140
+China,1985,2006,6,184,Yield,29,(KG/HA),805
+China,1986,2006,6,4,Area Harvested,4,(1000 HA),4306
+China,1986,2006,6,184,Yield,29,(KG/HA),824
+China,1987,2006,6,4,Area Harvested,4,(1000 HA),4844
+China,1987,2006,6,184,Yield,29,(KG/HA),876
+China,1988,2006,6,4,Area Harvested,4,(1000 HA),5535
+China,1988,2006,6,184,Yield,29,(KG/HA),751
+China,1989,2006,6,4,Area Harvested,4,(1000 HA),5203
+China,1989,2006,6,184,Yield,29,(KG/HA),728
+China,1990,2006,6,4,Area Harvested,4,(1000 HA),5588
+China,1990,2006,6,184,Yield,29,(KG/HA),807
+China,1991,2006,6,4,Area Harvested,4,(1000 HA),6539
+China,1991,2006,6,184,Yield,29,(KG/HA),869
+China,1992,2006,6,4,Area Harvested,4,(1000 HA),6835
+China,1992,2006,6,184,Yield,29,(KG/HA),659
+China,1993,2006,6,4,Area Harvested,4,(1000 HA),5000
+China,1993,2006,6,184,Yield,29,(KG/HA),749
+China,1994,2006,6,4,Area Harvested,4,(1000 HA),5530
+China,1994,2006,6,184,Yield,29,(KG/HA),784
+China,1995,2006,6,4,Area Harvested,4,(1000 HA),5422
+China,1995,2006,6,184,Yield,29,(KG/HA),879
+China,1996,2006,6,4,Area Harvested,4,(1000 HA),4722
+China,1996,2006,6,184,Yield,29,(KG/HA),890
+China,1997,2006,6,4,Area Harvested,4,(1000 HA),4491
+China,1997,2006,6,184,Yield,29,(KG/HA),1023
+China,1998,2006,6,4,Area Harvested,4,(1000 HA),4459
+China,1998,2006,6,184,Yield,29,(KG/HA),1011
+China,1999,2006,6,4,Area Harvested,4,(1000 HA),3726
+China,1999,2006,6,184,Yield,29,(KG/HA),1028
+China,2000,2008,5,4,Area Harvested,4,(1000 HA),4058
+China,2000,2008,5,184,Yield,29,(KG/HA),1089
+China,2001,2008,5,4,Area Harvested,4,(1000 HA),4820
+China,2001,2008,5,184,Yield,29,(KG/HA),1102
+China,2002,2008,5,4,Area Harvested,4,(1000 HA),4500
+China,2002,2008,5,184,Yield,29,(KG/HA),1219
+China,2003,2008,5,4,Area Harvested,4,(1000 HA),5300
+China,2003,2008,5,184,Yield,29,(KG/HA),978
+China,2004,2008,5,4,Area Harvested,4,(1000 HA),5900
+China,2004,2008,5,184,Yield,29,(KG/HA),1118
+China,2005,2008,5,4,Area Harvested,4,(1000 HA),5350
+China,2005,2008,5,184,Yield,29,(KG/HA),1156
+China,2006,2010,5,4,Area Harvested,4,(1000 HA),5950
+China,2006,2010,5,184,Yield,29,(KG/HA),1299
+China,2007,2010,2,4,Area Harvested,4,(1000 HA),6200
+China,2007,2010,2,184,Yield,29,(KG/HA),1299
+China,2008,2012,10,4,Area Harvested,4,(1000 HA),6050
+China,2008,2012,10,184,Yield,29,(KG/HA),1321
+China,2009,2016,5,4,Area Harvested,4,(1000 HA),5300
+China,2009,2016,5,184,Yield,29,(KG/HA),1315
+China,2010,2016,5,4,Area Harvested,4,(1000 HA),5250
+China,2010,2016,5,184,Yield,29,(KG/HA),1265
+China,2011,2016,5,4,Area Harvested,4,(1000 HA),5500
+China,2011,2016,5,184,Yield,29,(KG/HA),1346
+China,2012,2016,5,4,Area Harvested,4,(1000 HA),5300
+China,2012,2016,5,184,Yield,29,(KG/HA),1438
+China,2013,2016,5,4,Area Harvested,4,(1000 HA),4800
+China,2013,2016,5,184,Yield,29,(KG/HA),1486
+China,2014,2016,5,4,Area Harvested,4,(1000 HA),4400
+China,2014,2016,5,184,Yield,29,(KG/HA),1484
+China,2015,2016,6,4,Area Harvested,4,(1000 HA),3100
+China,2015,2016,6,184,Yield,29,(KG/HA),1580
+China,2016,2016,6,4,Area Harvested,4,(1000 HA),2900
+China,2016,2016,6,184,Yield,29,(KG/HA),1614
+India,1960,2006,6,4,Area Harvested,4,(1000 HA),7610
+India,1960,2006,6,184,Yield,29,(KG/HA),134
+India,1961,2006,6,4,Area Harvested,4,(1000 HA),7978
+India,1961,2006,6,184,Yield,29,(KG/HA),112
+India,1962,2006,6,4,Area Harvested,4,(1000 HA),7730
+India,1962,2006,6,184,Yield,29,(KG/HA),141
+India,1963,2006,6,4,Area Harvested,4,(1000 HA),8221
+India,1963,2006,6,184,Yield,29,(KG/HA),134
+India,1964,2006,6,4,Area Harvested,4,(1000 HA),8365
+India,1964,2006,6,184,Yield,29,(KG/HA),123
+India,1965,2006,6,4,Area Harvested,4,(1000 HA),7962
+India,1965,2006,6,184,Yield,29,(KG/HA),121
+India,1966,2006,6,4,Area Harvested,4,(1000 HA),7836
+India,1966,2006,6,184,Yield,29,(KG/HA),122
+India,1967,2006,6,4,Area Harvested,4,(1000 HA),7995
+India,1967,2006,6,184,Yield,29,(KG/HA),141
+India,1968,2006,6,4,Area Harvested,4,(1000 HA),7596
+India,1968,2006,6,184,Yield,29,(KG/HA),136
+India,1969,2006,6,4,Area Harvested,4,(1000 HA),7731
+India,1969,2006,6,184,Yield,29,(KG/HA),135
+India,1970,2006,6,4,Area Harvested,4,(1000 HA),7605
+India,1970,2006,6,184,Yield,29,(KG/HA),127
+India,1971,2006,6,4,Area Harvested,4,(1000 HA),7800
+India,1971,2006,6,184,Yield,29,(KG/HA),162
+India,1972,2006,6,4,Area Harvested,4,(1000 HA),7679
+India,1972,2006,6,184,Yield,29,(KG/HA),147
+India,1973,2006,6,4,Area Harvested,4,(1000 HA),7574
+India,1973,2006,6,184,Yield,29,(KG/HA),143
+India,1974,2006,6,4,Area Harvested,4,(1000 HA),7562
+India,1974,2006,6,184,Yield,29,(KG/HA),159
+India,1975,2006,6,4,Area Harvested,4,(1000 HA),7350
+India,1975,2006,6,184,Yield,29,(KG/HA),154
+India,1976,2006,6,4,Area Harvested,4,(1000 HA),6885
+India,1976,2006,6,184,Yield,29,(KG/HA),147
+India,1977,2006,6,4,Area Harvested,4,(1000 HA),7866
+India,1977,2006,6,184,Yield,29,(KG/HA),156
+India,1978,2006,6,4,Area Harvested,4,(1000 HA),8119
+India,1978,2006,6,184,Yield,29,(KG/HA),166
+India,1979,2006,6,4,Area Harvested,4,(1000 HA),8127
+India,1979,2006,6,184,Yield,29,(KG/HA),168
+India,1980,2006,6,4,Area Harvested,4,(1000 HA),7823
+India,1980,2006,6,184,Yield,29,(KG/HA),169
+India,1981,2006,6,4,Area Harvested,4,(1000 HA),8057
+India,1981,2006,6,184,Yield,29,(KG/HA),177
+India,1982,2006,6,4,Area Harvested,4,(1000 HA),7871
+India,1982,2006,6,184,Yield,29,(KG/HA),187
+India,1983,2006,6,4,Area Harvested,4,(1000 HA),7721
+India,1983,2006,6,184,Yield,29,(KG/HA),173
+India,1984,2006,6,4,Area Harvested,4,(1000 HA),7382
+India,1984,2006,6,184,Yield,29,(KG/HA),247
+India,1985,2006,6,4,Area Harvested,4,(1000 HA),7533
+India,1985,2006,6,184,Yield,29,(KG/HA),261
+India,1986,2006,6,4,Area Harvested,4,(1000 HA),6948
+India,1986,2006,6,184,Yield,29,(KG/HA),227
+India,1987,2006,6,4,Area Harvested,4,(1000 HA),6471
+India,1987,2006,6,184,Yield,29,(KG/HA),240
+India,1988,2006,6,4,Area Harvested,4,(1000 HA),7343
+India,1988,2006,6,184,Yield,29,(KG/HA),244
+India,1989,2006,6,4,Area Harvested,4,(1000 HA),7331
+India,1989,2006,6,184,Yield,29,(KG/HA),313
+India,1990,2006,6,4,Area Harvested,4,(1000 HA),7440
+India,1990,2006,6,184,Yield,29,(KG/HA),267
+India,1991,2006,6,4,Area Harvested,4,(1000 HA),7661
+India,1991,2006,6,184,Yield,29,(KG/HA),264
+India,1992,2006,6,4,Area Harvested,4,(1000 HA),7543
+India,1992,2006,6,184,Yield,29,(KG/HA),311
+India,1993,2006,6,4,Area Harvested,4,(1000 HA),7440
+India,1993,2006,6,184,Yield,29,(KG/HA),287
+India,1994,2006,6,4,Area Harvested,4,(1000 HA),7861
+India,1994,2006,6,184,Yield,29,(KG/HA),309
+India,1995,2006,6,4,Area Harvested,4,(1000 HA),9063
+India,1995,2006,6,184,Yield,29,(KG/HA),318
+India,1996,2006,6,4,Area Harvested,4,(1000 HA),9122
+India,1996,2006,6,184,Yield,29,(KG/HA),332
+India,1997,2006,6,4,Area Harvested,4,(1000 HA),8904
+India,1997,2006,6,184,Yield,29,(KG/HA),302
+India,1998,2006,6,4,Area Harvested,4,(1000 HA),9287
+India,1998,2006,6,184,Yield,29,(KG/HA),302
+India,1999,2006,6,4,Area Harvested,4,(1000 HA),8791
+India,1999,2006,6,184,Yield,29,(KG/HA),302
+India,2000,2006,6,4,Area Harvested,4,(1000 HA),8576
+India,2000,2006,6,184,Yield,29,(KG/HA),278
+India,2001,2006,6,4,Area Harvested,4,(1000 HA),8730
+India,2001,2006,6,184,Yield,29,(KG/HA),307
+India,2002,2006,6,4,Area Harvested,4,(1000 HA),7667
+India,2002,2006,6,184,Yield,29,(KG/HA),301
+India,2003,2006,6,4,Area Harvested,4,(1000 HA),7630
+India,2003,2006,6,184,Yield,29,(KG/HA),399
+India,2004,2007,3,4,Area Harvested,4,(1000 HA),8786
+India,2004,2007,3,184,Yield,29,(KG/HA),471
+India,2005,2013,11,4,Area Harvested,4,(1000 HA),8873
+India,2005,2013,11,184,Yield,29,(KG/HA),467
+India,2006,2013,11,4,Area Harvested,4,(1000 HA),9166
+India,2006,2013,11,184,Yield,29,(KG/HA),534
+India,2007,2013,11,4,Area Harvested,4,(1000 HA),9439
+India,2007,2013,11,184,Yield,29,(KG/HA),570
+India,2008,2013,11,4,Area Harvested,4,(1000 HA),9406
+India,2008,2013,11,184,Yield,29,(KG/HA),539
+India,2009,2015,11,4,Area Harvested,4,(1000 HA),10310
+India,2009,2015,11,184,Yield,29,(KG/HA),517
+India,2010,2015,11,4,Area Harvested,4,(1000 HA),11140
+India,2010,2015,11,184,Yield,29,(KG/HA),532
+India,2011,2016,2,4,Area Harvested,4,(1000 HA),12200
+India,2011,2016,2,184,Yield,29,(KG/HA),518
+India,2012,2016,2,4,Area Harvested,4,(1000 HA),12000
+India,2012,2016,2,184,Yield,29,(KG/HA),517
+India,2013,2016,2,4,Area Harvested,4,(1000 HA),11700
+India,2013,2016,2,184,Yield,29,(KG/HA),577
+India,2014,2016,6,4,Area Harvested,4,(1000 HA),12700
+India,2014,2016,6,184,Yield,29,(KG/HA),506
+India,2015,2016,6,4,Area Harvested,4,(1000 HA),11900
+India,2015,2016,6,184,Yield,29,(KG/HA),490
+India,2016,2016,6,4,Area Harvested,4,(1000 HA),11800
+India,2016,2016,6,184,Yield,29,(KG/HA),517
+United States,1960,2006,6,4,Area Harvested,4,(1000 HA),6195
+United States,1960,2006,6,184,Yield,29,(KG/HA),500
+United States,1961,2006,6,4,Area Harvested,4,(1000 HA),6327
+United States,1961,2006,6,184,Yield,29,(KG/HA),492
+United States,1962,2006,6,4,Area Harvested,4,(1000 HA),6301
+United States,1962,2006,6,184,Yield,29,(KG/HA),512
+United States,1963,2006,6,4,Area Harvested,4,(1000 HA),5752
+United States,1963,2006,6,184,Yield,29,(KG/HA),579
+United States,1964,2006,12,4,Area Harvested,4,(1000 HA),5689
+United States,1964,2006,12,184,Yield,29,(KG/HA),580
+United States,1965,2006,12,4,Area Harvested,4,(1000 HA),5510
+United States,1965,2006,12,184,Yield,29,(KG/HA),590
+United States,1966,2006,12,4,Area Harvested,4,(1000 HA),3866
+United States,1966,2006,12,184,Yield,29,(KG/HA),538
+United States,1967,2006,6,4,Area Harvested,4,(1000 HA),3236
+United States,1967,2006,6,184,Yield,29,(KG/HA),501
+United States,1968,2006,12,4,Area Harvested,4,(1000 HA),4112
+United States,1968,2006,12,184,Yield,29,(KG/HA),579
+United States,1969,2006,6,4,Area Harvested,4,(1000 HA),4474
+United States,1969,2006,6,184,Yield,29,(KG/HA),486
+United States,1970,2006,6,4,Area Harvested,4,(1000 HA),4514
+United States,1970,2006,6,184,Yield,29,(KG/HA),492
+United States,1971,2006,6,4,Area Harvested,4,(1000 HA),4643
+United States,1971,2006,6,184,Yield,29,(KG/HA),491
+United States,1972,2006,6,4,Area Harvested,4,(1000 HA),5255
+United States,1972,2006,6,184,Yield,29,(KG/HA),568
+United States,1973,2006,6,4,Area Harvested,4,(1000 HA),4844
+United States,1973,2006,6,184,Yield,29,(KG/HA),583
+United States,1974,2006,6,4,Area Harvested,4,(1000 HA),5086
+United States,1974,2006,6,184,Yield,29,(KG/HA),494
+United States,1975,2006,6,4,Area Harvested,4,(1000 HA),3560
+United States,1975,2006,6,184,Yield,29,(KG/HA),508
+United States,1976,2006,6,4,Area Harvested,4,(1000 HA),4417
+United States,1976,2006,6,184,Yield,29,(KG/HA),522
+United States,1977,2006,6,4,Area Harvested,4,(1000 HA),5372
+United States,1977,2006,6,184,Yield,29,(KG/HA),583
+United States,1978,2006,6,4,Area Harvested,4,(1000 HA),5018
+United States,1978,2006,6,184,Yield,29,(KG/HA),471
+United States,1979,2006,6,4,Area Harvested,4,(1000 HA),5193
+United States,1979,2006,6,184,Yield,29,(KG/HA),613
+United States,1980,2006,6,4,Area Harvested,4,(1000 HA),5348
+United States,1980,2006,6,184,Yield,29,(KG/HA),453
+United States,1981,2006,6,4,Area Harvested,4,(1000 HA),5601
+United States,1981,2006,6,184,Yield,29,(KG/HA),608
+United States,1982,2006,6,4,Area Harvested,4,(1000 HA),3939
+United States,1982,2006,6,184,Yield,29,(KG/HA),661
+United States,1983,2006,6,4,Area Harvested,4,(1000 HA),2973
+United States,1983,2006,6,184,Yield,29,(KG/HA),569
+United States,1984,2006,6,4,Area Harvested,4,(1000 HA),4200
+United States,1984,2006,6,184,Yield,29,(KG/HA),673
+United States,1985,2006,6,4,Area Harvested,4,(1000 HA),4140
+United States,1985,2006,6,184,Yield,29,(KG/HA),706
+United States,1986,2006,6,4,Area Harvested,4,(1000 HA),3427
+United States,1986,2006,6,184,Yield,29,(KG/HA),618
+United States,1987,2006,6,4,Area Harvested,4,(1000 HA),4059
+United States,1987,2006,6,184,Yield,29,(KG/HA),792
+United States,1988,2006,6,4,Area Harvested,4,(1000 HA),4835
+United States,1988,2006,6,184,Yield,29,(KG/HA),694
+United States,1989,2006,6,4,Area Harvested,4,(1000 HA),3860
+United States,1989,2006,6,184,Yield,29,(KG/HA),688
+United States,1990,2006,6,4,Area Harvested,4,(1000 HA),4748
+United States,1990,2006,6,184,Yield,29,(KG/HA),711
+United States,1991,2006,6,4,Area Harvested,4,(1000 HA),5245
+United States,1991,2006,6,184,Yield,29,(KG/HA),731
+United States,1992,2006,6,4,Area Harvested,4,(1000 HA),4501
+United States,1992,2006,6,184,Yield,29,(KG/HA),785
+United States,1993,2006,6,4,Area Harvested,4,(1000 HA),5173
+United States,1993,2006,6,184,Yield,29,(KG/HA),679
+United States,1994,2006,6,4,Area Harvested,4,(1000 HA),5391
+United States,1994,2006,6,184,Yield,29,(KG/HA),794
+United States,1995,2006,6,4,Area Harvested,4,(1000 HA),6478
+United States,1995,2006,6,184,Yield,29,(KG/HA),602
+United States,1996,2006,6,4,Area Harvested,4,(1000 HA),5216
+United States,1996,2006,6,184,Yield,29,(KG/HA),791
+United States,1997,2006,6,4,Area Harvested,4,(1000 HA),5425
+United States,1997,2006,6,184,Yield,29,(KG/HA),754
+United States,1998,2006,6,4,Area Harvested,4,(1000 HA),4324
+United States,1998,2006,6,184,Yield,29,(KG/HA),701
+United States,1999,2006,6,4,Area Harvested,4,(1000 HA),5433
+United States,1999,2006,6,184,Yield,29,(KG/HA),680
+United States,2000,2006,6,4,Area Harvested,4,(1000 HA),5282
+United States,2000,2006,6,184,Yield,29,(KG/HA),708
+United States,2001,2006,6,4,Area Harvested,4,(1000 HA),5596
+United States,2001,2006,6,184,Yield,29,(KG/HA),790
+United States,2002,2006,6,4,Area Harvested,4,(1000 HA),5025
+United States,2002,2006,6,184,Yield,29,(KG/HA),746
+United States,2003,2006,6,4,Area Harvested,4,(1000 HA),4858
+United States,2003,2006,6,184,Yield,29,(KG/HA),818
+United States,2004,2006,8,4,Area Harvested,4,(1000 HA),5284
+United States,2004,2006,8,184,Yield,29,(KG/HA),958
+United States,2005,2010,9,4,Area Harvested,4,(1000 HA),5586
+United States,2005,2010,9,184,Yield,29,(KG/HA),931
+United States,2006,2010,9,4,Area Harvested,4,(1000 HA),5152
+United States,2006,2010,9,184,Yield,29,(KG/HA),912
+United States,2007,2010,9,4,Area Harvested,4,(1000 HA),4245
+United States,2007,2010,9,184,Yield,29,(KG/HA),985
+United States,2008,2014,11,4,Area Harvested,4,(1000 HA),3063
+United States,2008,2014,11,184,Yield,29,(KG/HA),912
+United States,2009,2014,11,4,Area Harvested,4,(1000 HA),3049
+United States,2009,2014,11,184,Yield,29,(KG/HA),870
+United States,2010,2014,11,4,Area Harvested,4,(1000 HA),4330
+United States,2010,2014,11,184,Yield,29,(KG/HA),910
+United States,2011,2016,2,4,Area Harvested,4,(1000 HA),3829
+United States,2011,2016,2,184,Yield,29,(KG/HA),886
+United States,2012,2016,2,4,Area Harvested,4,(1000 HA),3772
+United States,2012,2016,2,184,Yield,29,(KG/HA),999
+United States,2013,2016,2,4,Area Harvested,4,(1000 HA),3053
+United States,2013,2016,2,184,Yield,29,(KG/HA),921
+United States,2014,2016,2,4,Area Harvested,4,(1000 HA),3783
+United States,2014,2016,2,184,Yield,29,(KG/HA),939
+United States,2015,2016,6,4,Area Harvested,4,(1000 HA),3268
+United States,2015,2016,6,184,Yield,29,(KG/HA),859
+United States,2016,2016,6,4,Area Harvested,4,(1000 HA),3561
+United States,2016,2016,6,184,Yield,29,(KG/HA),905
